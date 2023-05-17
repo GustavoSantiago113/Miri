@@ -1,0 +1,8 @@
+Criar um microscópio portátil e barato para celular que tenha diversos aumentos em só aparelho.
+
+Etapas:
+1 - Produzir um aparelho com design para vários celulares;
+2 - Testar se as pequenas lentes pensadas anteriormente teriam o aumento e nitidez pensadas e se não, como isso poderia ser contornado.
+
+Na faculdade:
+Arranjar celulares por aí e medir as dimensões, testar lentes em algum laboratório de micro e contornar com algum professor que mexa com isso.
