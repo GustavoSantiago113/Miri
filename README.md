@@ -10,7 +10,7 @@
 
 ## Objective
 
-The objective of this project is to build a portable microscope to be attached in a cellphone. The images are seen using the phone's camera. Using lenses, the microscope have the capacity to zoom in 100, 500, 1000 and 2000 times.
+The objective of this project is to build a portable microscope to be attached in a cellphone. The images are seen using the phone's camera. Using spherical glass lenses, the microscope have the capacity to zoom in 100, 500, 1000 and 2000 times.
 
 ---
 
